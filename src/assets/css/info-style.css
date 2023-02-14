@@ -1,0 +1,16 @@
+.info--pic {
+  width: 317px;
+  height: auto;
+}
+
+.info--name {
+  font-weight: 700;
+}
+
+.info--jobtitle {
+  font-weight: 400;
+}
+
+.info--email {
+  font-weight: 400;
+}
