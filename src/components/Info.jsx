@@ -8,10 +8,7 @@ const Info = () => {
       <h2 className='info--name'>Fatemeh Hosseini</h2>
       <h4 className='info--jobtitle'>Frontend Developer</h4>
       <h5 className='info--website'>f.hosseini64@gmail.com</h5>
-      <div className="buttons">
-        <button type='button'>Email</button>
-        <button type='button'>LinkedIn</button>
-      </div>
+      <button type='button'>Email</button>
     </>
   )
 }
