@@ -1,3 +1,9 @@
+.info {
+  /* display: flex; */
+  justify-content: center;
+  text-align: center;
+  align-content: center;
+}
 .info--pic {
   width: 317px;
   height: auto;
@@ -22,4 +28,26 @@
   font-size: 12.24px;
   color: #F5F5F5;
   margin-top: -5px;
+}
+
+.info--btn {
+  border-radius: 6px;
+  border: none;
+  width: 17em;
+  height: 34px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  margin-left: 12%
+}
+
+.info--btn:before {
+  content: url('../icon/email-icon.svg');
+  padding-right: 10px;
+  /* width: 20px; */
+  /* float: left; */
+
 }
