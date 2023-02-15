@@ -23,31 +23,3 @@
   color: #F5F5F5;
   margin-top: -5px;
 }
-.buttons {
-  display: flex;
-  justify-content: center;
-}
-.btn-face {
-  border-radius: 6px;
-  height: 34px;
-  /* box-sizing: border-box; */
-    /* border: none; */
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.email--btn_div {
-  display: flex;
-  position: relative;
-  
-}
-.email--btn_img {
-  position: absolute;
-  top: .5em;
-  left: .5em
-}
-.email--btn {
-  width: 115px;
-  /* background: url('../icon/email-icon.svg') #ffffff 2.5% center no-repeat; */
-}
