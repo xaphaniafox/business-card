@@ -12,5 +12,15 @@ body {
 .App {
   background-color: #1A1B21;
   width: 317px;
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.container {
+  max-width: 247px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
 }
